@@ -1,0 +1,4 @@
+https://www.pap.fr/annonce/locations-appartement-clichy-92110-g43269g43279g43289g43293g43299g43335-a-partir-de-2-chambres-jusqu-a-1200-euros-a-partir-de-50-m2
+https://www.leboncoin.fr/recherche/?category=10&locations=Levallois-Perret_92300__48.89355_2.28959_1450,Paris_75017__48.88707_2.30629_2329,Gennevilliers_92230__48.93142_2.30231_4041,Villeneuve-la-Garenne_92390__48.93585_2.3228_1566,Asni%C3%A8res-sur-Seine_92600__48.91831_2.2855_2668,Saint-Ouen-sur-Seine_93400__48.91117_2.33359_1723,Clichy_92110__48.90375_2.30497_1302&real_estate_type=1,2&price=950-1200&rooms=3-max&square=50-max
+https://www.seloger.com/immobilier/locations/immo-aubervilliers-93/bien-appartement/?projects=1&types=1&places=[%7Bci:930070%7D%7C%7Bci:920024%7D%7C%7Bci:920078%7D%7C%7Bci:920036%7D%7C%7Bci:920044%7D%7C%7Bci:750117%7D]&price=NaN/1200&surface=50/NaN&bedrooms=2&sort=d_relevance&balcony=1/1&enterprise=0&qsVersion=1.0&m=search_refine
+
